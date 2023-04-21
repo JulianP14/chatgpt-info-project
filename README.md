@@ -1,13 +1,16 @@
-# Descripcion
+# Versión Online
+https://chatgpt-project-nine.vercel.app/
+
+# Descripción
 Se trata de un proyecto informativo basado en CHAT GPT. 
 
-Esta constuido completamente con React y CSS para todos los estilos, incluyendo las 'media query' correspondientes.
+Está construido completamente con React y CSS para todos los estilos, incluyendo las 'media query' correspondientes.
 
-La informacion pertinente a la tecnologia y el chat en si, fue consultada en su pagina web, y tambien, con el mismo chat.
+La información pertinente a la tecnología y el chat en sí, fue consultada en su página web, y también, con el mismo chat.
 
 # Dependencias
 **React Icons:**
-Proporciona iconos que pueden ser utilizados para mejorar la apariencia y la funcionabilidad.
+Proporciona íconos que pueden ser utilizados para mejorar la apariencia y la funcionabilidad.
 
 # Comandos
 **Si se clona el proyecto**
